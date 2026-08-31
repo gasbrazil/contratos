@@ -1,2 +1,2 @@
 # contratos
-Mirror of caissonpoint/poc-contratos, published at gasbrazil.github.io/contratos
+Mirror repo for the gasbrazil.github.io dashboard hub (living mirror of caissonpoint/poc-contratos)
